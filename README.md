@@ -22,14 +22,6 @@ I am a first-year Cybersecurity student focused on building a strong technical f
 
 ---
 
-### 📊 GitHub Activity
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberSec-Ahmed-Khader&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSec-Ahmed-Khader&layout=compact&theme=tokyonight)
-
----
-
 ### 🚀 Projects
 
 * 🔹 **[Python Socket Programming](https://github.com/CyberSec-Ahmed-Khader/Python-Socket-Programming)**
@@ -53,7 +45,7 @@ I am a first-year Cybersecurity student focused on building a strong technical f
 ### 🎯 Roadmap & Goals
 * ⏳ **CompTIA Security+** (In Progress)
 * ⏳ **Cisco CCNA Fundamentals** (In Progress)
-* ⏳ **TryHackMe / Hands-on Security Labs** (Planned)
+* ⏳ **Practical Labs & Network Security** (In Progress)
 
 ---
 
