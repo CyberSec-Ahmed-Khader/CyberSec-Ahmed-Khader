@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ahmed Khader
 
-🎓 **Cybersecurity Student @ University College of Applied Sciences (UCAS)**
+🎓 **Cybersecurity Student @ University College of Applied Sciences (UCAS)**  
+🌐 **Live Portfolio:** [cybersec-ahmed-khader.github.io](https://cybersec-ahmed-khader.github.io)
 
 I am a first-year Cybersecurity student interested in cybersecurity, networking, linux, programming, and practical security learning.
 
@@ -24,18 +25,18 @@ I focus on building a strong technical foundation through academic projects, han
 ### 🛠️ Skills & Tools
 
 #### Programming
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  — Developing
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  — Proficient
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** — Developing
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** — Proficient
 
 #### Networking & Security
 - 🌐 **Networking** — Developing
 - 🛡️ **Cybersecurity Fundamentals**
-- ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) 
-- ![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=flat-square&logo=Wireshark&logoColor=white) 
-- ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white) 
+- ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco Packet Tracer**
+- ![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=flat-square&logo=Wireshark&logoColor=white) **Wireshark**
+- ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white) **Nmap**
 
 #### Operating Systems & Tools
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  — Developing
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **Linux** — Developing
 - 💻 **Command Line** — Developing
 
 #### Other Skills
@@ -79,6 +80,7 @@ An academic software project developed using Java.
 
 #### 💻 [Cybersecurity Portfolio](https://github.com/CyberSec-Ahmed-Khader/CyberSec-Ahmed-Khader.github.io)
 My personal cybersecurity portfolio showcasing my projects, technical skills, academic work, and learning journey.  
+🔗 **Live Website:** [cybersec-ahmed-khader.github.io](https://cybersec-ahmed-khader.github.io)  
 **Technologies:** `HTML` • `CSS` • `JavaScript`
 
 ---
@@ -86,15 +88,9 @@ My personal cybersecurity portfolio showcasing my projects, technical skills, ac
 ### 🎯 Learning Journey
 
 `Programming`  
-↓  
-`Computer Networking`  
-↓  
+`Computer Networking`    
 `Linux & Command Line`  
-↓  
 `Python`  
-↓  
 `Network Analysis`  
-↓  
 `Cybersecurity Fundamentals`  
-↓  
 `Practical Cybersecurity`
