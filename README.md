@@ -24,10 +24,9 @@ I am a first-year Cybersecurity student focused on building a strong technical f
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberSec-Ahmed-Khader&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSec-Ahmed-Khader&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberSec-Ahmed-Khader&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSec-Ahmed-Khader&layout=compact&theme=tokyonight)
 
 ---
 
